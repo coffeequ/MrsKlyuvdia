@@ -1,0 +1,15 @@
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\bin\Debug\MrsKlyuvdia.exe.config
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\bin\Debug\MrsKlyuvdia.exe
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\bin\Debug\MrsKlyuvdia.pdb
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.csproj.AssemblyReference.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MainWindow.g.cs
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\App.g.cs
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia_MarkupCompile.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia_MarkupCompile.lref
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MainWindow.baml
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.g.resources
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.Properties.Resources.resources
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.csproj.GenerateResource.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.csproj.CoreCompileInputs.cache
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.exe
+C:\Users\Savva\Desktop\Практики 3 курс\2 Семестр\Лапухина С# + SQL\Pattern\PatternMsDuck\MrsKlyuvdia\obj\Debug\MrsKlyuvdia.pdb
